@@ -1,3 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: library-application-change#2
+  secret: '{cipher}AQBlzzvOLvdOaWqugxuohJYQadpYvM0iJBcR0USdjykQajiaQc7JTCER3XInv4WGsGtHt5etRdLRuNmCUEUR0T5el+XJOCI0yL+3HzIg3vj3g0Cp8jcOrmnOSBmmKqKKOl1uHnquKnfMImvm4XpZOJaYKVH6E6UaLQs8IUviEWwNuNpioDJeGHWjRhFLP6hzWMdZZdVNYDq3ElhwV26aM+jJVqTzZEoWBYZYHZQ7gja7EJ/jmI7TTAsg/Vw3Hf7fE/5ac/92DOPrBNBNv98Pp82GRUmexirYTA/NKwMLGvoro1B3HXB8GTlomR6qcVVYllqLtJNg2o0Ubds3yNNTkPNLaYCav/C8jUc1fZ4YUTLTHliou0SAwv32APas0e1hTBp7pqC+wPW2Aj2RPR/b6/q4'
+
+
+
