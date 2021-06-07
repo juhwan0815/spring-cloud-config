@@ -1,9 +1,9 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/study?useSSL=false&useUnicode=true&autoReconnect=true&characterEncoding=utf8&allowMultiQueries=true&serverTimezone=Asia/Seoul
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    username: '{cipher}AQBin2GbtE+StsqgP4qWcWH3lng+rqp5MdbjG0J/RUq3zbn0FgyUojmdHZjjZIHaL09fIld+H/IQRYaRCe5FjPQYkU7NZqcHGZFGx6t+NM8EZSJ45rAFcf7+Tq2ig9tu46T4hxQ2GGjwXEBcgS3yJHVVOzSiBEPxemkf7amHhQPJOnuddDlKg1g2zEPo5/CvC5MVVfv/G8bbXbQFuSH/qBVgDApr+rclC6RM9jwYJubaK6/H+tcqRmSkVrE0KauGb7Zl50OK6yEWEWmBN6fhcUq0gAZ3J1zUDcohZLNhKT+qjAbHleND+d5yLLIBzy+ncz60Y1TvPQMLNTXUxrdkWRTjdx51HCuPcEfkvHyAvxvG4cWwu7zsOY727pjivLqT7Rw='
-    password: '{cipher}AQA1SmajV59sCMHobZdDnq7Yxr+ZTgexxMx0KblITwgjRg+UeFXTwzAj5S/kDJ8boSnOs6Vzch/SMw7MFvsxP4uYz0S88M8rofYv3SKYvD9fyyS/oQlFZTJ6ReOCwtxoyIzVlFwmVpElmD1uHGXdbS2Fifz/1SpJ/TqX2QVYkP3Kj8zYcQtLc1/LEVlsBvBGT2vTMs94tXZTiavLab35bR9watC/sW/x4TZnKtkVYGG3W0XFrj+/kzSnz/DGofIEtlV/RYFEAtKfhPJUihzGv1hHWLfwl26Vcq5mUvNGxA0hEbSQJNaHd6rSDW4DM7FlH8BG5xHPqxhqObhtjC1eTo83djtXL/Iz3CAlQ3CbTKs1a2pCQ3OXFf5rCY3nUvZVu+o='
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:testdb
+    username: sa
+    password: 
 
 token:
   access_token:
