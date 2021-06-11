@@ -19,7 +19,7 @@ cloud:
       secretKey: '{cipher}AQCnbNdNszPkMxjVPX6BNJJvc//FlgujiIXt9aXfOaAVIZ399ee1fRrTxxtYtbt1F9iNXJaOcMpI3dZXf6jic3wLwuBP1+cLTRAj/tgKdMqbwhFsm8E2DJdFiG7KbTi42Wgyf5y9P+3CCq98YvuLcnBcptQBFLuAXTaA5AVb7/TyQCpso7F5qWLj472eVEsAaERmz/DwGEM8k9yrKoEU4oGtnZHxFaaAGW8AyT6JOEUgZF/tCzDFldRIfZuB0A5krMgZPrNAfZYAjeLMVEnJnS2ADibnKm0TB8OtSW40hB3RRIS5nfaHnnN4h2AomRgB2t779f3vYS/YpW6LAd5AC+wRbRQziZwrCXm1RCURPrykDDr2mlp0p6wASd4Q+FTXznPXHrZYEM11jYGmAvr8v8BkV3MbPK8Y+mJloBI3tn1Kpg=='
     s3:
       bucket: user-service-image
-      thumbnail: user-service-image-resize
+      thumbnailBucket: user-service-image-resize
     region:
       static: ap-northeast-2
     stack:
