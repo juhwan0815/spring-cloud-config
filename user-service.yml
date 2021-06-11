@@ -18,7 +18,8 @@ cloud:
       accessKey: '{cipher}AQAo4PDUWPev8SE1mkTb7cCbbRkZRwgbWnUZM2dbVBkRPgHnJhfemjT5NjqG6aK4DBMxuPC1phyo44sTDHMiqMyDxPIE3WP3efILl3o7Ndr6zVj2wOWH8aCNec9kjLe804UccoKfiDLSlXDMOiNWWZykb4SKkNwD1y0As1FGi1U6EW2PkyE48t3ZxEH3iJRqWhOzCZVEwyRnyhP3qQWxZXRFHbPGQrNHuSkqUNFmZAExo2Xnr2QiEiaQVV5D+VgTxZTHMxyNxuNjdQNkPjauDd6LANe2J467Z325/SQcWTJBaioxO1Whq12knkicaiSTYHocJVZpV4keE4jIN9VMM4fLO4kmZn5C+9PafdImqk+0cj2KRQIOb8b45xRqD5DinUq7tPR+AEgGQAACbt3DKoE3'
       secretKey: '{cipher}AQCnbNdNszPkMxjVPX6BNJJvc//FlgujiIXt9aXfOaAVIZ399ee1fRrTxxtYtbt1F9iNXJaOcMpI3dZXf6jic3wLwuBP1+cLTRAj/tgKdMqbwhFsm8E2DJdFiG7KbTi42Wgyf5y9P+3CCq98YvuLcnBcptQBFLuAXTaA5AVb7/TyQCpso7F5qWLj472eVEsAaERmz/DwGEM8k9yrKoEU4oGtnZHxFaaAGW8AyT6JOEUgZF/tCzDFldRIfZuB0A5krMgZPrNAfZYAjeLMVEnJnS2ADibnKm0TB8OtSW40hB3RRIS5nfaHnnN4h2AomRgB2t779f3vYS/YpW6LAd5AC+wRbRQziZwrCXm1RCURPrykDDr2mlp0p6wASd4Q+FTXznPXHrZYEM11jYGmAvr8v8BkV3MbPK8Y+mJloBI3tn1Kpg=='
     s3:
-      bucket: shareu-file
+      bucket: user-service-image
+      thumbnail: user-service-image-resize
     region:
       static: ap-northeast-2
     stack:
