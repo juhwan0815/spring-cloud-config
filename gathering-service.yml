@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:testdb
+    username: sa
+    password: 
+
+token:
+  access_token:
+    expiration_time: 86400000
+  refresh_token:
+    expiration_time: 604800000
+  secret: '{cipher}AQAb/qjrpc5Z4fjfjWJKq6tiCXOOUbx/gbvIuM5mba/FBG8T5NncxAkynBIRbsOBCXRHOdJf7LM5AJzSXNYxkMH9tnhI8axfumWQ9nfu4v6Fh5PsFwyZKT3xBDQqHE4wkOmZS5/8WJ6AWfQPH3L5BsEk/hhkBlbdHanE3Kts49Wt4scyziqg6NnifhUYyBzQED9pqflrLl0DeDsTuJTkmkYmf/104S1j6UchaIOWxHR5D1aluWKFLqz8yEBZkY2NsT5s9ddLgGWcYqURjE2B7Bs6fT4P+hMCa+hVr/dri7TRfwln8OfRB7hwHdSxh8Smq/dEbKalDq8kXWrL6w+10afbsVMkIvVmiGFBi47kXgn6x4rZEE8j+RN8bX0Sj3XhfR4='
