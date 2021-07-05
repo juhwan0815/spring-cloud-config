@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://mysql:3306/map?useSSL=false&useUnicode=true&autoReconnect=true&characterEncoding=utf8&allowMultiQueries=true&serverTimezone=Asia/Seoul
+    url: jdbc:mysql://localhost:3306/map?useSSL=false&useUnicode=true&autoReconnect=true&characterEncoding=utf8&allowMultiQueries=true&serverTimezone=Asia/Seoul
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: '{cipher}AQAlJTTrDiOZxjoyRNjxE89vN03kRisd0vzcZnKEg6b6PEhajgCeg5qqyIdA+7uMGIlyHs/5b+b6HE4R03TrFiQh0+Iwj5tKjfu7QZtzN43KXegqQk8Lo5GjcP4tFwSp3H3W9qF+24hSW+3mBUqNXF5z6KREnlfcXVkM8ZsClx0RY80OeKHv1Ci1wglaXpvkXsBn+igfW1CPmAN4AN+G8L+tRMPxee2/KUcM4HSQ6WCZoQl1jd0JkZivDY9B1axtVFWrS7AK7RfBI4omVf5TSc1qUnJ4y4TP8PTRq8XrRjyE4ch3M2pypRYpdxnpuNwcw6IXGdoAP8pd/rfuyUhHKFAkweURW+B7IDVJl3ZhklV961OkAXKxLNGLWk0x1EP2/nc='
     password: ""
