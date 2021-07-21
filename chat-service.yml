@@ -1,0 +1,6 @@
+token:
+  access_token:
+    expiration_time: 86400000
+  refresh_token:
+    expiration_time: 604800000
+  secret: '{cipher}AQBUloiiDgad1u8OKG7sZebc8+TcHXcToYa8xMEjmacedOlGQB1wyNqMe7Ymuhj7a16VQrKTILnfF06iuI+xaI2Ma3HWKAi31oKh5sO73SzR6pn78oYC9/DKSkZcA/kZzFtZ0QLe4CSqlvAmiUtm5AvPjsQO48tTB9MOKLhL8LLtrsoxMeepnsKgRId+euKiSjp8WmwjgjP93kXPq2nM0+vKCjjfcHRtFPAhA/vXUW+SdoYyNU9V7I47K3Llo8ge1pDn00V8CI8rW8lcm5QPXd9HaEJYIWkAuyDdhu5RiVKr98Ds5CNRoVBV+vHvIRRq7m8JEhArdGOm+6HjOR65sCg88c+mRVzWKnWYHzEHD1iwCy1Wo5qjn5C4fdChACvymf4='
