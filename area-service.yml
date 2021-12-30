@@ -2,5 +2,5 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/map?useSSL=false&useUnicode=true&autoReconnect=true&characterEncoding=utf8&allowMultiQueries=true&serverTimezone=Asia/Seoul
     driver-class-name: com.mysql.cj.jdbc.Driver
-    username: '{cipher}AQCIwwClaRV6/Mhz/DNzEDBp4WJVM+EluO756GwpowikIzvIWQ7QKOYyAKKPHxJ/XmsfUwssudxKEpfDYROmcweeEq73jQGz52sCmBuEMxw0UDtz8E51RIYPakvgXuzpi/tMZhLmGg2pMtRc53LvewVHkw6wIzmXkxHy9w+aR522hB4ESMXqeBYXnwcD1XkYgLfHQRZ9unDsvTB5D7q4KWVeqa5Ri1G382DEbl+gymzh63Hz2hikU2TL7gbCU4KwAe1o9Ogad4mBMb4ezpujXs0s+PBI0Xrpj7PjXeU7GuL/NxT2yRN2s6A1lXUGYSiC8/egQ5AkLmXQfyzInm3KO5QRW9xwzTqL6YT5USvZvBv7CcLFCtrtfY9saRxPI4TpAVs='
-    password: ""
+    username: '{cipher}AQB1nuMOA+ElmSaBPXmvpv0IvssPbKNMTksY38yOBeqdTMVKUqCE4yRVywXC1QmdsZUn68LRo2z0hOsvbdIgO+5pS0a/pYWU8/ccrLfJ/0Hz3PnQGUDTIbWjHc0Ab+gPHAsaPIWXaVAfbTWg+hsPe2l7Nu9i3lz1BXhPG8NswJtGi/MJm8nZ6jr4M97Rc/iyB/flMJ102e1T4RR2ZC+ChvO+ClWck12ac3UZYozcrxl6FWV+tAPIBHjGK4girAznw7mkP09Dfzy+vxOJl0giCdH0/VCe0acBVAbYFFv6lTCkbOg+yVkEITKj96bxoNIjKTEe72m/WCUaibcJQ73zUc/mQ4IxafK/TVzyKh8OOl4tltkGW/NdH2LiPQSlyNp6Ewc='
+    password: "{cipher}AQB1nuMOA+ElmSaBPXmvpv0IvssPbKNMTksY38yOBeqdTMVKUqCE4yRVywXC1QmdsZUn68LRo2z0hOsvbdIgO+5pS0a/pYWU8/ccrLfJ/0Hz3PnQGUDTIbWjHc0Ab+gPHAsaPIWXaVAfbTWg+hsPe2l7Nu9i3lz1BXhPG8NswJtGi/MJm8nZ6jr4M97Rc/iyB/flMJ102e1T4RR2ZC+ChvO+ClWck12ac3UZYozcrxl6FWV+tAPIBHjGK4girAznw7mkP09Dfzy+vxOJl0giCdH0/VCe0acBVAbYFFv6lTCkbOg+yVkEITKj96bxoNIjKTEe72m/WCUaibcJQ73zUc/mQ4IxafK/TVzyKh8OOl4tltkGW/NdH2LiPQSlyNp6Ewc="
