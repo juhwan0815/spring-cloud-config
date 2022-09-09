@@ -8,10 +8,6 @@ eureka:
 spring:
   cloud:
     gateway:
-      discovery:
-        locator:
-          enabled: true
-          lower-case-service-id: true
       routes:
         - id: organization-service
           uri: lb://organization-service
@@ -31,3 +27,9 @@ management:
     web:
       exposure:
         include: "*"
+
+logging:
+  level:
+    com.netfilx: warn
+    org.springframework.web: warn
+    com.optimagrowth: debug
