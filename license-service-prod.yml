@@ -5,4 +5,4 @@ spring:
   datasource:
     url: "jdbc:postgresql://database:5432/ostock_prod"
     username: "postgres"
-    password: "{cipher}c9fc129ce3730364cdecb03686bfa9b921caee43feadea3a29652275d682ff72"
+    password: "{cipher}cfb749b6e33fa69616e0a451e0f652ab8135e9dc8918f4bd9a69003a533c6701"
